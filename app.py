@@ -6,7 +6,7 @@ import openai
 # === CONFIG ===
 TELEGRAM_BOT_TOKEN = "7899622099:AAGfW6kGkbJ1Gh7NEiN2zHhOvLEsw38vdQk"
 OPENAI_API_KEY = "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"
-ALLOWED_USER_IDS = [123456789, 987654321]  # Danh sách user ID được phép
+ALLOWED_USER_IDS = [Y2k_Support, 987654321]  # Danh sách user ID được phép
 
 # === SETUP ===
 TELEGRAM_API_URL = f"https://api.telegram.org/bot7899622099:AAGfW6kGkbJ1Gh7NEiN2zHhOvLEsw38vdQk/sendMessage"
