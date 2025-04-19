@@ -9,7 +9,7 @@ OPENAI_API_KEY = "sk-proj-SOJMo6DIK7_04fCDeIHHhn7MyQu3KkT-EsuYMv3yDzaYuDBgAPZwxm
 ALLOWED_USER_IDS = [123456789, 987654321]  # Danh sách user ID được phép
 
 # === SETUP ===
-TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+TELEGRAM_API_URL = f"https://api.telegram.org/bot7899622099:AAGfW6kGkbJ1Gh7NEiN2zHhOvLEsw38vdQk/sendMessage"
 openai.api_key = OPENAI_API_KEY
 
 app = Flask(__name__)
